@@ -1,0 +1,11 @@
+name = "Alumni D6 to D7 migration Example"
+description = "Migrate content from D6 site to D7"
+package = "Development"
+core = 7.x
+hidden = TRUE
+
+dependencies[] = migrate
+dependencies[] = migrate_d2d
+
+files[] = alumni-library-cornell-edu-migrate.migrate.inc
+files[] = node.inc

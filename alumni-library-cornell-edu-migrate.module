@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * @file africana-migrate.module
+ */
+
+/**
+ * Intentionally left empty, see africana-migrate.migrate.inc
+ * for the actual implementation.
+ *
+ * @link https://drupal.org/node/1006982
+ */
